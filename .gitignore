@@ -1,4 +1,6 @@
 .bundle
+Capfile
+config/deploy.rb
 db/*.sqlite3*
 log/*.log
 *.log
@@ -9,6 +11,3 @@ doc/app
 *.swp
 *~
 .DS_Store
-Capfile 
-onfig/deploy.rb 
-
